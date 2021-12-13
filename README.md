@@ -3,7 +3,7 @@
 # Projetos
 
 <p align="center">
-  <img src="Banner.png" >
+  <img src="https://github.com/Juliana-Lis/Projetos/blob/main/undraw_Programmer_re_owql.png" >
 </p>
 
 # Juliana Lis
