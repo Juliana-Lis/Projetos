@@ -17,7 +17,7 @@ Qualquer dúvida é só entrar em contato comigo :)
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/juliana-brito-669947217/)
-* [Medium](@julianalis.brito)
+* [Medium](https://medium.com/@julianalis.brito)
 
 
 **Projeto 1:**
